@@ -10,6 +10,7 @@ import {
 } from "react-icons/fa6";
 import Logo from "./../../assets/vite.svg";
 import Icon from "./../../assets/KadrX_Icon_Main.svg";
+
 const Contact = () => {
   return (
     <div
